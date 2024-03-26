@@ -1,1 +1,1 @@
-SELECT * FROM people;
+SELECT 'There''s no way this works';
